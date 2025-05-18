@@ -1,6 +1,6 @@
 import React from "react";
 import { FaEdit, FaTrash, FaEye } from "react-icons/fa";
-import image from "../assets/banner2.png";
+// import image from "../assets/banner2.png";
 import Swal from "sweetalert2";
 import { Link } from "react-router";
 
