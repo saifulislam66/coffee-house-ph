@@ -33,7 +33,10 @@ function Login() {
                 placeholder="Password"
               />
 
-              <button type="submit" className="btn text-white bg-blue-700 mt-4">
+              <button
+                type="submit"
+                className="btn text-white bg-amber-800 mt-4"
+              >
                 Register
               </button>
 

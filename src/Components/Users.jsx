@@ -8,6 +8,9 @@ function Users() {
   return (
     <div className="mt-5">
       <div className="overflow-x-auto">
+        <h2 className="text-3xl text-center my-3 font-bold  text-amber-800 ">
+          All Users
+        </h2>
         <table className="table">
           {/* head */}
           <thead>
